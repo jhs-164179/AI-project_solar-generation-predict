@@ -22,6 +22,8 @@
 
 ### Structures
 
+- `Video demo.mp4` Video file for showing system demo.
+
 - `Flask-based-AI-server` AI server.
 - `Flask-based-AI-server/main.py` Code for run AI server.
 - `Flask-based-AI-server/model.py` Proposed Hybrid model code.
