@@ -56,3 +56,8 @@ For testing with dataset, upload data by using button in html after run WAS
   # access
   # localhost/demo
   ```
+
+### Acknoledgement
+
+* [Klorofil-Free Bootstrap Admin Template](https://themeineed.com/downloads/klorofil-free-bootstrap-admin-template/) - Got the frontend template from here
+* [LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - Got the reference code from here for implement NLinear and DLinear by tensorflow
