@@ -1,3 +1,8 @@
+# Hybrid Model
+![image](https://github.com/user-attachments/assets/d56fcc84-1a03-470e-8681-8830ff0fd977)
+An implmentation of "Solar Power Generation Forecasting using a Hybrid LSTM-Linear Model with Multi-Head Attention"
+**[[Paper](https://doi.org/10.3745/TKIPS.2025.14.2.123)]**<br>
+
 ### Requirements
 
 | Software      	| Version 	|
